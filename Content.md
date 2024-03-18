@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Content"
 permalink: /Content/
+---
 <main>
   <body>
     <h1>CONTENT</h1>
