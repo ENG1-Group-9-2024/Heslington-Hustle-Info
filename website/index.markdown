@@ -1,6 +1,12 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: "Content"
+permalink: /Content/
 ---
+<main>
+  <body>
+    <h1>CONTENT</h1>
+    <p>Links:</p>
+    <p>Another link:</p>
+  </body>
+</main>
