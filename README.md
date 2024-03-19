@@ -19,3 +19,5 @@
 
 ### Version control repository
 [Repo](https://github.com/JamesLawson01/Heslington-Hustle-Group-9.git)
+
+<script src='https://cdn.jsdelivr.net/gh/eddymens/markdown-external-link-script@v2.0.0/main.min.js'></script>
