@@ -1,7 +1,7 @@
 # ENG1 Group 9 Website
 
 ### Requirements
-[Req1.pdf](https://external.ink?to=www.google.com/search?sca_esv=c164048a9d94891b&sxsrf=ACQVn09VjCyN6jtKVFr0kbU5_hEZK6stDg:1710772615855&q=cat&tbm=isch&source=lnms&prmd=ivnmbtz&sa=X&ved=2ahUKEwiktLzQhP6EAxX1V0EAHUi2AyMQ0pQJegQIEBAB&biw=1536&bih=703&dpr=1.25#imgrc=eAP244UcF5wdYM)
+[Req1.pdf](https://www.google.com/search?sca_esv=c164048a9d94891b&sxsrf=ACQVn09VjCyN6jtKVFr0kbU5_hEZK6stDg:1710772615855&q=cat&tbm=isch&source=lnms&prmd=ivnmbtz&sa=X&ved=2ahUKEwiktLzQhP6EAxX1V0EAHUi2AyMQ0pQJegQIEBAB&biw=1536&bih=703&dpr=1.25#imgrc=eAP244UcF5wdYM)
 
 ### Architecture
 [Arch1.pdf](https://www.google.com/search?sca_esv=c164048a9d94891b&sxsrf=ACQVn09VjCyN6jtKVFr0kbU5_hEZK6stDg:1710772615855&q=cat&tbm=isch&source=lnms&prmd=ivnmbtz&sa=X&ved=2ahUKEwiktLzQhP6EAxX1V0EAHUi2AyMQ0pQJegQIEBAB&biw=1536&bih=703&dpr=1.25#imgrc=MDWu8wtaF62DMM)
