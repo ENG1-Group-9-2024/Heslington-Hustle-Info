@@ -6,6 +6,7 @@
 
 
 ### CRC
+[CRC diagram](https://docs.google.com/presentation/d/1lePP-5l3nA6M7EPCqWfCe3Edno_TcgMMu8U3qWkjfKs/edit?usp=sharing)
 
 ### Class diagram
 [Class diagram](CLASS-DIAGRAM.md)
