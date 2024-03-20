@@ -1,14 +1,7 @@
 # Architecture Diagrams
 
-#### This is how our architecture diagrams have changed.
-
-### Final architecture diagram
-
-
-### CRC
-[CRC diagram](https://docs.google.com/presentation/d/1lePP-5l3nA6M7EPCqWfCe3Edno_TcgMMu8U3qWkjfKs/edit?usp=sharing)
-
 ### Component Diagrams
+[Component diagram](COMPONENT-DIAGRAM.md)
 
 ### Class Diagrams
 [Class diagram](CLASS-DIAGRAM.md)
@@ -28,3 +21,6 @@
 [sequence diagram](SEQUENCE-DIAGRAM-WB.md)
 
 [State diagram](STATE-DIAGRAM-WB.md)
+
+### CRC
+[CRC diagram](https://docs.google.com/presentation/d/1lePP-5l3nA6M7EPCqWfCe3Edno_TcgMMu8U3qWkjfKs/edit?usp=sharing)
