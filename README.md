@@ -1,4 +1,4 @@
-# ENG1 Group 9 Website
+# Group 9 Assessment 1
 
 ### Requirements
 [Req1.pdf](Req1.pdf)
