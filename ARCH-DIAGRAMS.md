@@ -1,6 +1,6 @@
 # Architecture Diagrams
 
-#### This is how our architecture diagram has changed.
+#### This is how our architecture diagrams have changed.
 
 ### Final architecture diagram
 
