@@ -16,8 +16,6 @@
 ### Risk assessment and mitigation
 [Risk1.pdf](Risk1.pdf)
 
-[Risk Register](https://github.com/ENG1-Group-9-2024/website-1/blob/0518e114849f76027855f3d733ef815f549edf31/Risk%20Register%20-%20Sheet1.pdf)
-
 ### Implementation
 [Impl1.pdf](Impl1.pdf)
 
