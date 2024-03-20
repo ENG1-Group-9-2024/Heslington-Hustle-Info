@@ -8,8 +8,15 @@
 ### CRC
 [CRC diagram](https://docs.google.com/presentation/d/1lePP-5l3nA6M7EPCqWfCe3Edno_TcgMMu8U3qWkjfKs/edit?usp=sharing)
 
-### Class diagram
+### Component Diagrams
+
+### Class Diagrams
 [Class diagram](CLASS-DIAGRAM.md)
+
+### Sequence Diagrams
+
+### State Diagrams
+
 
 
 ### Whiteboard sketches
