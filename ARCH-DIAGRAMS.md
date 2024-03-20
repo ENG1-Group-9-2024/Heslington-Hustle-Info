@@ -8,6 +8,8 @@
 ### CRC
 
 ### Class diagram
+[Class diagram](CLASS-DIAGRAM.md)
+
 
 ### Whiteboard sketches
 [Class diagram](CLASS-DIAGRAM-WB.md)
