@@ -3,6 +3,8 @@
 ### Requirements
 [Req1.pdf](Req1.pdf)
 
+[Use cases](UseCases.md)
+
 ### Architecture
 [Arch1.pdf](Arch1.pdf)
 
