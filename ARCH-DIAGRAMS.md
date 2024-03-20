@@ -14,9 +14,10 @@
 [Class diagram](CLASS-DIAGRAM.md)
 
 ### Sequence Diagrams
+[Sequence diagram](SEQUENCE-DIAGRAM.md)
 
 ### State Diagrams
-
+[State diagram](STATE-DIAGRAM.md)
 
 
 ### Whiteboard sketches
