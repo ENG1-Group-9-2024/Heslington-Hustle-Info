@@ -23,3 +23,6 @@
 
 ### Version control repository
 [Repo](https://github.com/JamesLawson01/Heslington-Hustle-Group-9.git)
+
+### Licences
+All liceneces can be found in Impl1.pdf.
