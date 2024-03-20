@@ -9,10 +9,10 @@
 
 
 ### Whiteboard sketches
-(Class diagram)[CLASS-DIAGRAM.md]
+[Class diagram](CLASS-DIAGRAM.md)
 
-(Component diagram)[COMPONENT-DIAGRAM.md]
+[Component diagram](COMPONENT-DIAGRAM.md)
 
-(sequence diagram)[SEQUENCE-DIAGRAM.md]
+[sequence diagram](SEQUENCE-DIAGRAM.md)
 
-(State diagram)[STATE-DIAGRAM.md]
+[State diagram](STATE-DIAGRAM.md)
